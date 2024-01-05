@@ -1,4 +1,4 @@
-welcome to EE 201
+# Welcome to EE 201
 # README
 My name is Grace
 
