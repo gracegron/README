@@ -1,4 +1,5 @@
 # Welcome to EE 201
-# README
-My name is Grace
+
+## Grace Gronstad
+I am a current Junior, studying Electrical and Computer Engineering. 
 
